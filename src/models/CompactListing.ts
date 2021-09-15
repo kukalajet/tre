@@ -1,0 +1,3 @@
+type CompactListing = {
+  id: number;
+};
